@@ -1,7 +1,3 @@
-# transformer-research-portfolio
-Independent research deep-dives into Transformer architectures, starting from "Attention Is All You Need"
-
-
 # Transformer Research Portfolio
 
 This repository documents my independent research study of Transformer architectures, beginning with the paper:
